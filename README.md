@@ -18,13 +18,13 @@ that's why i copy-paste my notes - fragmented as they are - and bind each part -
 2) learn git branching:  
 -новиною-новиною було існування протоколів git:// та ssh://;  
 -просто новиною:  
--те, шо git pull - це fetch+merge - 2:1;  
--те, шо можна совать вказівник (не хед і не мейн) по коммітах - git branch f-;   
--те, шо у fetch бувають аргументи;  
--видалення віддалених гілок через пуш без аргументу <джерело>;  
--cherry-pick;  
--те, шо HEAD буває detached;  
--ше кілька новин було;  
+ -те, шо git pull - це fetch+merge - 2:1;  
+ -те, шо можна совать вказівник (не хед і не мейн) по коммітах - git branch f-;   
+ -те, шо у fetch бувають аргументи;  
+ -видалення віддалених гілок через пуш без аргументу <джерело>;  
+ -cherry-pick;  
+ -те, шо HEAD буває detached;  
+  -ше кілька новин було;  
 -новим навиком - переміщення між коммітами, і переміщення коммітів (до того оперував тільки гілками, в межах котрих шось коммітив);  
 -а використовувати у майбутньому, як показує моя кількамісячна практика, буду здебільшого таки операції з гілками, а не з коммітами;  
 </details>
@@ -45,11 +45,11 @@ that's why i copy-paste my notes - fragmented as they are - and bind each part -
     
 1) linux:  
 -нового:   
--майже всі команди (до того використовував - при роботі з гітом - тільки cd та ls);  
--зрозумів, для чого git bash у окремому вікні - до того користувався тільки вбудованим у вебшторм. (покопався на своєму компі, використовуючи частину команд);  
+ -майже всі команди (до того використовував - при роботі з гітом - тільки cd та ls);  
+ -зрозумів, для чого git bash у окремому вікні - до того користувався тільки вбудованим у вебшторм. (покопався на своєму компі, використовуючи частину команд);  
 -шо буду використовувати:  
--поки не знаю, бо полишати вінду поки не планую;  
--шо для роботи в IDE знадобиться;  
+ -поки не знаю, бо полишати вінду поки не планую;  
+ -шо для роботи в IDE знадобиться;  
 
 2) http:  
 -різниця між аутентифікацією та авторизацією;  
@@ -194,7 +194,7 @@ that's why i copy-paste my notes - fragmented as they are - and bind each part -
 <details>
   <summary>notes</summary> 
   
-some text will be here ASAP
+acomplishing this task took a week - so as the previous 5 tasks did together. it made me realy angry, cause i had thought it would be easy peasy. but i found out what accordion is & how to make it on pure css. and also there were a bunch of smaller findings - unpopular rules of combining selectors, e.g. - and so on... definitly usefull
 
 </details>
 
