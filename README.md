@@ -204,3 +204,33 @@ acomplishing this task took a week - so as the previous 5 tasks did together. it
 https://sofiichuk.github.io/pop-up-task/
 
 </details>
+
+## JavaScript Basics
+
+<details>
+  <summary>notes</summary> 
+  
+1) js at coursera:  
+  
+-Boolean wrapper object;  
+-change by value/by reference;  
+-constructor: global this, new, prototype;  
+-stored in array function invocation - array[n]();  
+-for (var in);  
+-some closure concept details;  
+-fake namespaces; 
+-IIFE & window as a prop & passing prop from func to the global scope;  
+  
+...scopes is definitly the hardest part (by now); 
+
+2)
+
+
+</details>
+
+ <details>
+  <summary>pics</summary>
+  
+![](img/js_coursera.png)
+
+</details>
