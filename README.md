@@ -1,6 +1,6 @@
 # kottans-frontend
 
-hi, there.  
+hi there.  
 it took about a week, but i did it: completed chapters 1-5.  
 i don't have neither time, nor inspiration to set the whole report in a logical way.  
 that's why i copy-paste my notes - fragmented as they are - and bind each part - along with screenshots - to the related chapter under cut.  
@@ -187,4 +187,20 @@ that's why i copy-paste my notes - fragmented as they are - and bind each part -
 ![](img/done_flex-froggy.png)
 ![](img/done_grid-garden.png)
     
+</details>
+
+## HTML & CSS Practice
+
+<details>
+  <summary>notes</summary> 
+  
+some text will be here ASAP
+
+</details>
+
+ <details>
+  <summary>demo</summary>
+  
+(https://link-url-here.org)
+
 </details>
