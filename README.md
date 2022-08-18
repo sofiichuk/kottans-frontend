@@ -223,7 +223,23 @@ https://sofiichuk.github.io/pop-up-task/
   
 ...scopes is definitly the hardest part (by now); 
 
-2)
+2) basic javascript at freecodecamp:
+
+-/", /n, /t, // and so on;
+-arr[3][0][1] notation;
+-variables declared without keywords are automatically created in the global scope;
+-(?) when string2num and when num2string;
+-pseudocode;
+-function isEqual(a, b) {return a === b};
+-delete obj.prop;
+-nested arrays iteration with for loop: product * arr[i][j];
+-recursive function;
+-Math.floor(Math.random() * 10);
+-parseInt();
+...recurcion is definitly the hardest part (by now);
+...really **fuckin** enjoyed handmaking functions. each one was a small victory;
+
+3)
 
 
 </details>
