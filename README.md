@@ -16,8 +16,8 @@ that's why i copy-paste my notes - fragmented as they are - and bind each part -
 -git log -p, git diff, git mv, git revert, git log --graph --oneline;  
 
 2) learn git branching:  
--новиною-новиною було існування протоколів git:// та ssh://;  
--просто новиною:  
+--новиною-новиною було існування протоколів git:// та ssh://;  
+--просто новиною:  
  -те, шо git pull - це fetch+merge - 2:1;  
  -те, шо можна совать вказівник (не хед і не мейн) по коммітах - git branch f-;   
  -те, шо у fetch бувають аргументи;  
@@ -25,8 +25,8 @@ that's why i copy-paste my notes - fragmented as they are - and bind each part -
  -cherry-pick;  
  -те, шо HEAD буває detached;  
   -ше кілька новин було;  
--новим навиком - переміщення між коммітами, і переміщення коммітів (до того оперував тільки гілками, в межах котрих шось коммітив);  
--а використовувати у майбутньому, як показує моя кількамісячна практика, буду здебільшого таки операції з гілками, а не з коммітами;  
+--новим навиком - переміщення між коммітами, і переміщення коммітів (до того оперував тільки гілками, в межах котрих шось коммітив);  
+--а використовувати у майбутньому, як показує моя кількамісячна практика, буду здебільшого таки операції з гілками, а не з коммітами;  
 </details>
 
  <details>
@@ -44,10 +44,10 @@ that's why i copy-paste my notes - fragmented as they are - and bind each part -
   <summary>notes</summary> 
     
 1) linux:  
--нового:   
+--нового:   
  -майже всі команди (до того використовував - при роботі з гітом - тільки cd та ls);  
  -зрозумів, для чого git bash у окремому вікні - до того користувався тільки вбудованим у вебшторм. (покопався на своєму компі, використовуючи частину команд);  
--шо буду використовувати:  
+--шо буду використовувати:  
  -поки не знаю, бо полишати вінду поки не планую;  
  -шо для роботи в IDE знадобиться;  
 
@@ -223,24 +223,23 @@ https://sofiichuk.github.io/pop-up-task/
   
 ...scopes is definitly the hardest part (by now); 
 
-2) basic javascript at freecodecamp:
-
--/", /n, /t, // and so on;
--arr[3][0][1] notation;
--variables declared without keywords are automatically created in the global scope;
--(?) when string2num and when num2string;
--pseudocode;
--function isEqual(a, b) {return a === b};
--delete obj.prop;
--nested arrays iteration with for loop: product * arr[i][j];
--recursive function;
--Math.floor(Math.random() * 10);
--parseInt();
-...recurcion is definitly the hardest part (by now);
-...really **fuckin** enjoyed handmaking functions. each one was a small victory;
-
-3)
-
+2) basic javascript at freecodecamp:  
+  
+-/", /n, /t, // and so on;  
+-arr[3][0][1] notation; 
+-variables declared without keywords are automatically created in the global scope; 
+-(?) when string2num and when num2string; 
+-pseudocode;  
+-function isEqual(a, b) {return a === b}; 
+-delete obj.prop; 
+-nested arrays iteration with for loop: product * arr[i][j];  
+-recursive function;  
+-Math.floor(Math.random() * 10);  
+-parseInt();  
+...recurcion is definitly the hardest part (by now);  
+...really **fuckin** enjoyed handmaking functions. each one was a small victory;  
+  
+3)  
 
 </details>
 
