@@ -226,12 +226,12 @@ https://sofiichuk.github.io/pop-up-task/
 2) basic javascript at freecodecamp:  
   
 -/", /n, /t, // and so on;  
--arr[3][0][1] notation; 
--variables declared without keywords are automatically created in the global scope; 
--(?) when string2num and when num2string; 
+-arr[3][0][1] notation;  
+-variables declared without keywords are automatically created in the global scope;  
+-(?) when string2num and when num2string;  
 -pseudocode;  
--function isEqual(a, b) {return a === b}; 
--delete obj.prop; 
+-function isEqual(a, b) {return a === b};  
+-delete obj.prop;  
 -nested arrays iteration with for loop: product * arr[i][j];  
 -recursive function;  
 -Math.floor(Math.random() * 10);  
@@ -247,5 +247,6 @@ https://sofiichuk.github.io/pop-up-task/
   <summary>pics</summary>
   
 ![](img/js_coursera.png)
+![](img/7.2_basic_js_at_freecodecamp.png)
 
 </details>
