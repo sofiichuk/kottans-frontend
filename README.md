@@ -210,20 +210,20 @@ https://sofiichuk.github.io/pop-up-task/
 <details>
   <summary>notes</summary> 
   
-1) js at coursera:  
+1) js at courcera:  
   
--Boolean wrapper object;  
+-Boolean wrapper;  
 -change by value/by reference;  
 -constructor: global this, new, prototype;  
--stored in array function invocation - array[n]();  
+-stored in array function invocation - array[n]\();  
 -for (var in);  
 -some closure concept details;  
--fake namespaces; 
+-fake namespaces;  
 -IIFE & window as a prop & passing prop from func to the global scope;  
   
 ...scopes is definitly the hardest part (by now); 
 
-2) basic javascript at freecodecamp:  
+2.1) basic javascript at freecodecamp:  
   
 -/", /n, /t, // and so on;  
 -arr[3][0][1] notation;  
@@ -236,17 +236,73 @@ https://sofiichuk.github.io/pop-up-task/
 -recursive function;  
 -Math.floor(Math.random() * 10);  
 -parseInt();  
-...recurcion is definitly the hardest part (by now);  
-...really **fuckin** enjoyed handmaking functions. each one was a small victory;  
   
-3)  
-
+...recursion is definitly the hardest part (by now);  
+  
+2.2) es6 challenges at freecodecamp:  
+  
+-Object.freeze();  
+-Arr.reduce();  
+-didn't know (...args) is called "the rest parameter";  
+-spread operator vs rest operator;  
+-object props rearragement using deconstruction - a bunch of;  
+  
+...it turned out i am used to the latest ES version;  
+  
+2.3) basic data structures at freecodecamp:  
+  
+-passing variable to array;  
+-details of splice() & slice() methods;  
+-indexOf==-1;  
+-obj.hasOwnProperty('a')=='a' in obj;  
+-Object.keys(obj);  
+  
+  ...ok;  
+  
+2.4) basic algorithm scripting at freecodecamp: 
+  
+-.repeat();  
+-.substring();  
+-.sort();  
+  
+...it was hard; 
+  
+2.5) functional programming at freecodecamp:  
+  
+-imperative/declarative;  
+-lambda;  
+-splice/slice diff;  
+-4 props of .map();  
+-object as a prop;  
+-.map() doesn't mutate the array (although callbackFn may do so);  
+-.reduce() and its 5 props;  
+-Number wrapper;  
+-.split();  
+-.every();  
+-.some();  
+-learned a few more special symbols;  
+  
+...theory wasn't that new, though many details were;  
+  
+2.6) intermediate algorithm scripting at freecodecamp:  
+  
+-the arguments object;  
+-.charAt(0);  
+-iteration through a string;  
+-RegEx; 
+  
+...though at first i was really enjoing making functions by myself (each one was a small victory), closer to the end i got really tired of that - tired as hell; 
+  
+...but the final result is - js is not that scary anymore; 
+  
 </details>
 
  <details>
   <summary>pics</summary>
   
 ![](img/js_coursera.png)
-![](img/7.2_basic_js_at_freecodecamp.png)
+![](img/js_camp_1.png)
+![](img/js_camp_2.png)
+![](img/js_camp_3.png)
 
 </details>
