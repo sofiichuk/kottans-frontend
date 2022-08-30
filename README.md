@@ -306,3 +306,57 @@ https://sofiichuk.github.io/pop-up-task/
 ![](img/js_camp_3.png)
 
 </details>
+
+## Document Object Model
+
+<details>
+  <summary>notes</summary> 
+  
+1)dom manipulation at coursera:   
+-unobtrusive event binding;   
+-this.textContent='';   
+-'DOMContentLoaded' prop;   
+-if(event1){event2};    
+...had known most of that;    
+  
+2)intermediate algorithm scripting at freecodecamp:   
+...no news - is good news (though it was hard as hell);   
+  
+3)vanilla js article:   
+-getElement & querySelector differ when it's about dynamic page mutations;    
+...and a bunch of more news - evidently, most of them re-appears in 8.4 - when re-spoken;   
+  
+4)javascript dom crash course lectures:   
+-obj.style.prop;    
+-childs (e.g. li) form an array;    
+-nth-child selector (just like in css);   
+-item.parentNode.parentNode.parentNode;   
+-parentNode===parentElement;    
+-.childNode displays '[i]text' for spaces, so .children should be preffered;    
+-and thus .firstElementChild > .firstChild;   
+-nextSibling, previousSibling;    
+-el.setAttribute('name','value');   
+-newDiv.appendChild(document.createTextNode('text'));     
+-container.insertBefore(newDiv,existingElement);   
+-client/offset x&y;   
+-e.target, e.type, e.x, e.target.value, e.target.style, e.target.id;    
+-e.preventDefault();    
+-if(e.target.classList.contains('class'));    
+...learned a lot of new ways to interact with dom elements;   
+    
+5)practice - interactive side menu:   
+...done.    
+    
+</details>
+
+ <details>
+  <summary>pics & demo</summary>
+      
+https://sofiichuk.github.io/dom-task/     
+    
+![](img/ch8.1.png)      
+![](img/ch8.2.png)    
+![](img/8.4.png)    
+      
+</details>    
+
