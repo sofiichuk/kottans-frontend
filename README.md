@@ -375,3 +375,52 @@ https://sofiichuk.github.io/dom-task/
   <summary>demo</summary>
       
 https://sofiichuk.github.io/a-tiny-JS-world/  
+    
+## Object oriented JS
+
+<details>
+  <summary>notes</summary> 
+     
+1)lecture on OOP at youtube pt.1:   
+-class SomeClass {    
+ constructor(prop){   
+ this.smth=prop   
+ }    
+ method(){}   
+ };   
+-let copy=new SomeClass;    
+-prototype methods are inserted functions;    
+-invokation - copy.method();    
+-class SomeClass2 extends class SomeClass{    
+ constructor(...prop, newProp){   
+ super(...prop);    
+ this.newProp=newProp;    
+}   
+};    
+-let copy2=new SomeClass2;    
+-constructor is a func invoked when new obj (new SomeClass) is created;   
+-__proto__;   
+    
+2)lecture on OOP at youtube pt.2:   
+-let user2={};    
+ user2.__proto__=user;    
+ ||   
+ Object.setPrototypeOf(user2,user);   
+-setter&getter;   
+-user2.username Vs. user2.__proto__.username;   
+    
+3)classic frogger game:   
+...still in progress;   
+    
+4)codewars:   
+..it was easier then freecodecamp;    
+    
+ <details>
+  <summary>pics & demo</summary>
+        
+https://... (once ready, frogger game demo will be here) 
+      
+![](img/codewars.png)
+    
+<details>
+    
