@@ -360,3 +360,18 @@ https://sofiichuk.github.io/dom-task/
       
 </details>    
 
+## Building a Tiny JS World (pre-OOP):    
+    
+<details>
+ <summary>notes</summary> 
+    
+-figured out object.values/keys/entries(obj) don't guarantee a propper order;   
+-figured out what an infinite loop is;    
+-for the first time nested arr.map into arr.map;    
+
+</details>
+
+ <details>
+  <summary>demo</summary>
+      
+https://sofiichuk.github.io/a-tiny-JS-world/  
