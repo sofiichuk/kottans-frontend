@@ -375,6 +375,8 @@ https://sofiichuk.github.io/dom-task/
   <summary>demo</summary>
       
 https://sofiichuk.github.io/a-tiny-JS-world/  
+
+</details>
     
 ## Object oriented JS
 
@@ -415,12 +417,14 @@ https://sofiichuk.github.io/a-tiny-JS-world/
 4)codewars:   
 ..it was easier then freecodecamp;    
     
- <details>
+</details>
+    
+<details>
   <summary>pics & demo</summary>
         
 https://... (once ready, frogger game demo will be here) 
       
 ![](img/codewars.png)
     
-<details>
+</details>
     
