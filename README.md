@@ -413,32 +413,32 @@ https://sofiichuk.github.io/a-tiny-JS-world/
 
 5)oop related course at udacity:    
 ...forgot to make notes, but it helped a lot with tjsw refactoring with oop approach.     
-        
- </details>
-  <summary>pics & demo</summary>
-  
-  <details>
-            
-https://sofiichuk.github.io/frontend-nanodegree-arcade-game/
       
-![](img/codewars.png)
-![](img/oop@udemy.png)  
+ </details>   
     
-</details>
-
-## OOP exercise
-
-<details>
-  <summary>notes</summary> 
-  
+ <details>    
+  <summary>pics & demo</summary>    
+          
+https://sofiichuk.github.io/frontend-nanodegree-arcade-game/    
+          
+![](img/codewars.png)   
+![](img/oop@udemy.png)      
+        
+</details>    
+    
+## OOP exercise   
+    
+<details>   
+  <summary>notes</summary>    
+      
 -after the night of reading/watching oop-related stuff it was easy to set up inheritance (though before that i'd been about to get mad - such a mess i had had in a head - with all that factories, prototypes, classes & pseudo-classes, composition over inheritance & so on). since the info got structurised - the hardest step was the last one - to print an array of objects as multiple strings. i could've done that forever.
-  
-</details>
-  <summary>demo</summary>
-  
-  <details>
-  
-https://rawcdn.githack.com/sofiichuk/a-tiny-JS-world/52fb970af4d58fe3385f9c435a4e67dc61c467c3/index.html
-  
-  </details>  
-  
+      
+</details>    
+  <summary>demo</summary>   
+      
+  <details>   
+      
+https://rawcdn.githack.com/sofiichuk/a-tiny-JS-world/52fb970af4d58fe3385f9c435a4e67dc61c467c3/index.html    
+      
+  </details>      
+      
