@@ -416,6 +416,8 @@ https://sofiichuk.github.io/a-tiny-JS-world/
         
  </details>
   <summary>pics & demo</summary>
+  
+  <details>
             
 https://sofiichuk.github.io/frontend-nanodegree-arcade-game/
       
@@ -433,6 +435,8 @@ https://sofiichuk.github.io/frontend-nanodegree-arcade-game/
   
 </details>
   <summary>demo</summary>
+  
+  <details>
   
 https://rawcdn.githack.com/sofiichuk/a-tiny-JS-world/52fb970af4d58fe3385f9c435a4e67dc61c467c3/index.html
   
