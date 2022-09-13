@@ -433,8 +433,10 @@ https://sofiichuk.github.io/frontend-nanodegree-arcade-game/
       
 -after the night of reading/watching oop-related stuff it was easy to set up inheritance (though before that i'd been about to get mad - such a mess i had had in a head - with all that factories, prototypes, classes & pseudo-classes, composition over inheritance & so on). since the info got structurised - the hardest step was the last one - to print an array of objects as multiple strings. i could've done that forever.
       
-</details>    
-  <summary>demo</summary>   
+</details>   
+  
+<details>    
+  <summary>demo</summary> 
        
 https://rawcdn.githack.com/sofiichuk/a-tiny-JS-world/52fb970af4d58fe3385f9c435a4e67dc61c467c3/index.html    
       
