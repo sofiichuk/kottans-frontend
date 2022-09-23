@@ -442,3 +442,44 @@ https://rawcdn.githack.com/sofiichuk/a-tiny-JS-world/52fb970af4d58fe3385f9c435a4
       
   </details>      
       
+## Memory pair game   
+    
+<details>   
+  <summary>notes</summary>    
+  
+-event.currentTarget vs event.target;   
+-bubble vs capture;   
+-{capture:true};    
+-e.stopPropagation();   
+-{once:true};   
+-setTimeout(removeEventListener);   
+-it has to be the same func (non-arrow) for add&removeEvenListener;   
+-event delegation;    
+    
+-event.target.closest('.class');    
+-element.classList.toggle('.class');    
+-event.preventDefault();    
+-data-* in css (e.target.dataset in js);    
+-if (smth) return;    
+-boolean flag:    
+   // (A) FLAG FOR "ALREADY CLICKED".   
+let clicked = false;    
+  // (B) FUNCTION - WILL ONLY RUN IF NOT CLICKED    
+function doSomething () { if (!clicked) {   
+  // (B1) SET CLICKED TO TRUE   
+clicked = true;   
+  // (B2) DO YOUR PROCESSING HERE   
+alert("Something is done!");    
+  // (B3) RE-ENABLE AFTER PROCESSING (IF YOU WANT)    
+clicked = false;    
+}}    
+          
+</details>    
+  
+<details>    
+  <summary>demo</summary> 
+       
+https://sofiichuk.github.io/memory-pair-game    
+      
+  </details>      
+      
