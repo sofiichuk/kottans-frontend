@@ -483,3 +483,90 @@ https://sofiichuk.github.io/memory-pair-game
       
   </details>      
       
+## Friends App
+
+<details>
+  <summary>notes</summary> 
+  
+-new-new: !async closures! (may i name it that way?);
+
+-main: фетч бере десь проміс, потім ми його - вінраром;
+
+-main in other words:           
+                
+async function getUsersData() {         
+        const response = await fetch(`https://randomuser.me/api/?results=30&nat=us,fr,nl,nz&inc=nat,location,gender,name,email,dob,phone,picture`);             
+        const result = await response.json();           
+        console.log(result)             
+}               
+                
+getUsersData();         
+                
+-додаткова література:
+                
+1.1)доки етернала;              
+1.2)https://ru.stackoverflow.com/questions/554290/%d0%9a%d0%b0%d0%ba-%d0%b2%d0%b5%d1%80%d0%bd%d1%83%d1%82%d1%8c-%d0%b7%d0%bd%d0%b0%d1%87%d0%b5%d0%bd%d0%b8%d0%b5-%d0%b8%d0%b7-%d1%81%d0%be%d0%b1%d1%8b%d1%82%d0%b8%d1%8f-%d0%b8%d0%bb%d0%b8-%d0%b8%d0%b7-%d1%84%d1%83%d0%bd%d0%ba%d1%86%d0%b8%d0%b8-%d0%be%d0%b1%d1%80%d0%b0%d1%82%d0%bd%d0%be%d0%b3%d0%be-%d0%b2%d1%8b%d0%b7%d0%be%d0%b2%d0%b0-%d0%98%d0%bb%d0%b8-%d1%85%d0%be%d1%82%d1%8f-%d0%b1%d1%8b-%d0%b4%d0%be%d0%b6             
+1.3)https://ru.stackoverflow.com/questions/1305291/%D0%9F%D0%BE%D0%BB%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BC%D0%B0%D1%81%D1%81%D0%B8%D0%B2%D0%B0-%D0%B8%D0%B7-promise-pending               
+1.4)https://www.learn-codes.net/javascript/implement-async-await-in-sort-function-of-arrays-javascript/;                
+                
+-rtfm:          
+                
+2.1)https://www.javascripttutorial.net/javascript-fetch-api/;           
+2.2)https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs;             
+2.3)https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API;         
+2.4)https://learn.javascript.ru/network;                
+                
+-video-courses:         
+                
+3.1)restful apis course @ udacity:
+-7 osi layers - app to physical;
+-soap vs rest;
+-xml vs json;
+-http request: header(verb-uri-v ...) body;
+-http response: header(v-status_code-reason ...) body;
+-postman;
+
+3.2)stashchuk @ youtube:                
+-const myPromise=new Promise((resolve,reject)=>{..some body..});                
+-myPromise              
+ .then(value=>{..some body..})          
+ .catch(error=>{..some body..});                
+-fetch('https://jsonplaceholder.typicode.com/todos')            
+ .then(response=>response.json()) //json is a promise           
+ .then(json=>console.log(json))         
+ .catch(error=>console.log(error));             
+-const getData = (url) =>               
+  new Promise((resolve,reject)=>                
+   fetch(url)           
+    .then(response=>response.json())            
+    .then(json=>resolve(json))          
+    .catch(error=>reject(error)))               
+ getData('https://jsonplaceholder.typicode.com/todos')          
+  .then(data=>console.log(data))                
+  .catch(error=>console.log()error.message)             
+-async function asyncFn(){} //or:  async ()=>{} //always returns promise;               
+-const getUserData = async (url) => {           
+  const res = await fetch(url)          
+  const json = await res.json()         
+  return json}          
+ const url = 'https://jsonplaceholder.typicode.com/todos'               
+ try {          
+  const data = await getData(url)               
+  console.log(data)             
+ } catch (error) {              
+  console.log(error.message)};          
+                
+...a lot of youtube videos, stackoverflow-kind articles, f-cking manuals;               
+                
+...and pre-course is done...            
+                       
+</details>    
+  
+<details>    
+  <summary>demo</summary> 
+       
+https://sofiichuk.github.io/friends-app
+      
+  </details>    
+    
+    
