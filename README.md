@@ -499,7 +499,8 @@ async function getUsersData() {
         const result = await response.json();           
         console.log(result)             
 }               
-                
+...плюс кетч, оф коз...
+      
 getUsersData();         
                 
 -додаткова література:
