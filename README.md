@@ -487,15 +487,15 @@ https://sofiichuk.github.io/memory-pair-game
 
 <details>
   <summary>notes</summary> 
-       
-1.1)restful apis course @ udacity:
--7 osi layers - app to physical;
--soap vs rest;
--xml vs json;
--http request: header(verb-uri-v ...) body;
--http response: header(v-status_code-reason ...) body;
--postman;
-
+                
+1.1)restful apis course @ udacity:        
+-7 osi layers - app to physical;        
+-soap vs rest;        
+-xml vs json;       
+-http request: header(verb-uri-v ...) body;       
+-http response: header(v-status_code-reason ...) body;        
+-postman;       
+        
 1.2)stashchuk @ youtube:                
 -const myPromise=new Promise((resolve,reject)=>{..some body..});                
 -myPromise              
@@ -526,10 +526,10 @@ https://sofiichuk.github.io/memory-pair-game
  } catch (error) {              
   console.log(error.message)};  
                 
-2.1)eternal              
-2.2)https://ru.stackoverflow.com/questions/554290/
-2.3)https://ru.stackoverflow.com/questions/1305291/
-2.4)https://www.learn-codes.net/javascript/implement-async-await-in-sort-function-of-arrays-javascript/                              
+2.1)eternal                 
+2.2)https://ru.stackoverflow.com/questions/554290/        
+2.3)https://ru.stackoverflow.com/questions/1305291/         
+2.4)https://www.learn-codes.net/javascript/implement-async-await-in-sort-function-of-arrays-javascript/                                     
       
 </details>    
   
