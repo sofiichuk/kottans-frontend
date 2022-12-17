@@ -539,5 +539,30 @@ https://sofiichuk.github.io/memory-pair-game
 https://sofiichuk.github.io/friends-app
       
   </details>    
+          
+## Offline Web Applications   
     
+<details>
+  <summary>notes</summary> 
+        
+in brief:   
     
+-serviceWorker.smth;    
+-self.addEventListener.smth;    
+-cache/cashes.smth;   
+    
+in other words:   
+    
+ch1(theory): easy;    
+ch2(sw itself, practice): harder & harder, but ok;    
+ch3(idb, practice): over my head;        
+      
+</details>    
+      
+<details>    
+  <summary>pics</summary> 
+           
+![](img/offline-web-app.jpg)      
+         
+  </details>    
+      
