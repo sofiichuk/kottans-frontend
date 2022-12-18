@@ -488,7 +488,7 @@ https://sofiichuk.github.io/memory-pair-game
 <details>
   <summary>notes</summary> 
                 
-1.1)restful apis course @ udacity:        
+1.1)restful api course @ udacity:        
 -7 osi layers - app to physical;        
 -soap vs rest;        
 -xml vs json;       
@@ -548,8 +548,8 @@ https://sofiichuk.github.io/friends-app
 in brief:   
     
 -serviceWorker.smth;    
--self.addEventListener.smth;    
--cache/cashes.smth;   
+-self.addEventListener(smth);    
+-cache/caсhes.smth;   
     
 in other words:   
     
